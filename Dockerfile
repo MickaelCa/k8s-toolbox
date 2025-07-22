@@ -12,6 +12,7 @@ RUN pacman -Sy --noconfirm \
     iproute2 \
     iputils \
     jq \
+    kubectl \
     lsof \
     net-tools \
     nmap \
